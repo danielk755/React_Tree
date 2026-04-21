@@ -2,6 +2,7 @@
 # HTL Skill Tree Web App
 
 A web-based, data-driven visualization tool that displays educational competencies as an interactive skill tree.
+In this project, AI was used in certain parts of the development process to save time and support learning. It helped with tasks such as generating code ideas, structuring components, and improving documentation. The use of AI allowed for faster problem-solving and a better understanding of new concepts, while still requiring manual adjustments and critical thinking to ensure the final implementation was correct and meaningful.
 
 ## Features
 
